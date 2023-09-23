@@ -1,0 +1,9 @@
+{
+	"name": "udemy-db",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9aec10a5-42d2-4bf6-a4f8-01f2a2d29705",
+		"tenantId": "f14a5255-efbc-4dc1-8468-c402cfcc3eef"
+	}
+}

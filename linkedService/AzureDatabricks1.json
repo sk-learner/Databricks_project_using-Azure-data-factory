@@ -1,0 +1,14 @@
+{
+	"name": "AzureDatabricks1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-4131307128685609.9.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/8af5fa90-729b-4d27-b210-82efcb51a2ea/resourceGroups/udemy-databricks/providers/Microsoft.Databricks/workspaces/udemy-db",
+			"existingClusterId": "0918-115553-ez6otbuo"
+		}
+	}
+}
